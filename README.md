@@ -14,7 +14,7 @@ This repository contains the implementation of data science tasks including data
 ## Installation
 
 ```bash
-git clone https://github.com/Punya-H/SCT_DS_3.git
+git clone https://github.com/2005pranathis/SCT_DS_3.git
 cd SCT_DS_3
 pip install -r requirements.txt
 ```
