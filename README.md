@@ -42,7 +42,4 @@ Or explore results in Jupyter notebooks inside the `notebooks/` folder.
 * Built a Decision Tree classifier for customer purchase prediction
 * Identified accident patterns by weather, road, and time of day
 
-## Author
 
-**Punya H**
-GitHub: [Punya-H](https://github.com/Punya-H)
